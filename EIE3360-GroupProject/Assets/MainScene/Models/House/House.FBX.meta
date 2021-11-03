@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 56e7546b01636994981a7a5a73f93b71
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: House_Ceiling
+    100004: House_Floor_01
+    100006: House_Floor_02
+    100008: House_Wall
+    100010: Object001
+    100012: House_Windows_Black
+    100014: House_Windows_Frame
+    100016: House_Windows_Glass
+    100018: House_Wallpaper
+    100020: House_Wallpaper_01
+    100022: House_Windows_Ceiling_Frame
+    100024: House_Windows_Ceiling_Glass
+    400000: //RootNode
+    400002: House_Ceiling
+    400004: House_Floor_01
+    400006: House_Floor_02
+    400008: House_Wall
+    400010: Object001
+    400012: House_Windows_Black
+    400014: House_Windows_Frame
+    400016: House_Windows_Glass
+    400018: House_Wallpaper
+    400020: House_Wallpaper_01
+    400022: House_Windows_Ceiling_Frame
+    400024: House_Windows_Ceiling_Glass
+    2100000: House_Wall
+    2100002: House_Floor_01
+    2100004: House_Ceiling
+    2100006: House_Floor_02
+    2300000: House_Ceiling
+    2300002: House_Floor_01
+    2300004: House_Floor_02
+    2300006: House_Wall
+    2300008: Object001
+    2300010: House_Windows_Black
+    2300012: House_Windows_Frame
+    2300014: House_Windows_Glass
+    2300016: House_Wallpaper
+    2300018: House_Wallpaper_01
+    2300020: House_Windows_Ceiling_Frame
+    2300022: House_Windows_Ceiling_Glass
+    3300000: House_Ceiling
+    3300002: House_Floor_01
+    3300004: House_Floor_02
+    3300006: House_Wall
+    3300008: Object001
+    3300010: House_Windows_Black
+    3300012: House_Windows_Frame
+    3300014: House_Windows_Glass
+    3300016: House_Wallpaper
+    3300018: House_Wallpaper_01
+    3300020: House_Windows_Ceiling_Frame
+    3300022: House_Windows_Ceiling_Glass
+    4300000: House_Wall
+    4300002: Object001
+    4300004: House_Floor_01
+    4300006: House_Ceiling
+    4300008: House_Floor_02
+    4300010: House_Windows_Frame
+    4300012: House_Windows_Black
+    4300014: House_Windows_Glass
+    4300016: House_Wallpaper
+    4300018: House_Wallpaper_01
+    4300020: House_Windows_Ceiling_Frame
+    4300022: House_Windows_Ceiling_Glass
+    6400000: House_Ceiling
+    6400002: House_Floor_01
+    6400004: House_Floor_02
+    6400006: House_Wall
+    6400008: House_Windows_Black
+    6400010: House_Windows_Frame
+    6400012: House_Windows_Glass
+    6400014: House_Wallpaper
+    6400016: Object001
+    6400018: House_Wallpaper_01
+    6400020: House_Windows_Ceiling_Frame
+    6400022: House_Windows_Ceiling_Glass
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_Ceiling
+    second: {fileID: 2100000, guid: e5376dcea1bd93c4e82f4a2d2b5d44ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_Floor_01
+    second: {fileID: 2100000, guid: f7652a26e51d9774a98f80630e6e6e59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_Floor_02
+    second: {fileID: 2100000, guid: 4c26118d379084546af0b1732a173c68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_Wall
+    second: {fileID: 2100000, guid: b037e4ebae9351a43840fabb4ab41dac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_Wallpaper
+    second: {fileID: 2100000, guid: c5d9cc33980591242b31f904d7c708e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_Wallpaper_01
+    second: {fileID: 2100000, guid: 3c02a58ebdf6c1d449c1452ae68483c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_Windows_Black
+    second: {fileID: 2100000, guid: 51d8d66d6154a454aaf32ab21642a857, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_Windows_Ceiling_Frame
+    second: {fileID: 2100000, guid: 581d98a9a422eaf4db43fc3836a9bd71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_Windows_Ceiling_Glass
+    second: {fileID: 2100000, guid: c4b97088e48260d4181b288cbbd703e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_Windows_Frame
+    second: {fileID: 2100000, guid: 26869d17c6ff528478c5f14cb2514966, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_Windows_Glass
+    second: {fileID: 2100000, guid: 9b32e2cd7a733cf4c97ea176d54e73ad, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 20
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 17
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

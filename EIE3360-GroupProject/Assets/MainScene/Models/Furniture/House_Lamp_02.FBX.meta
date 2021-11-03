@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: d68f66241c5175d41966583386352a21
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: House_Lamp_02_Emission
+    100004: House_Lamp_02_Glass
+    100006: House_Lamp_02_Glass_02
+    100008: House_Lamp_02_Metal_01
+    100010: House_Lamp_02_Metal_02
+    100012: House_Lamp_02_Metal_03
+    100014: House_Lamp_02_White
+    100016: House_Lamp_02_White_01
+    400000: //RootNode
+    400002: House_Lamp_02_Emission
+    400004: House_Lamp_02_Glass
+    400006: House_Lamp_02_Glass_02
+    400008: House_Lamp_02_Metal_01
+    400010: House_Lamp_02_Metal_02
+    400012: House_Lamp_02_Metal_03
+    400014: House_Lamp_02_White
+    400016: House_Lamp_02_White_01
+    2100000: House_Lamp_02_Metal_03
+    2100002: House_Lamp_02_Glass
+    2100004: House_Lamp_02_Metal_01
+    2100006: House_Lamp_02_Metal_02
+    2100008: House_Lamp_02_White
+    2100010: House_Lamp_02_White_01
+    2100012: House_Lamp_02_Glass_02
+    2100014: House_Lamp_02_Emission
+    2300000: House_Lamp_02_Emission
+    2300002: House_Lamp_02_Glass
+    2300004: House_Lamp_02_Glass_02
+    2300006: House_Lamp_02_Metal_01
+    2300008: House_Lamp_02_Metal_02
+    2300010: House_Lamp_02_Metal_03
+    2300012: House_Lamp_02_White
+    2300014: House_Lamp_02_White_01
+    3300000: House_Lamp_02_Emission
+    3300002: House_Lamp_02_Glass
+    3300004: House_Lamp_02_Glass_02
+    3300006: House_Lamp_02_Metal_01
+    3300008: House_Lamp_02_Metal_02
+    3300010: House_Lamp_02_Metal_03
+    3300012: House_Lamp_02_White
+    3300014: House_Lamp_02_White_01
+    4300000: House_Lamp_02_Metal_03
+    4300002: House_Lamp_02_Glass
+    4300004: House_Lamp_02_Metal_01
+    4300006: House_Lamp_02_Metal_02
+    4300008: House_Lamp_02_White
+    4300010: House_Lamp_02_White_01
+    4300012: House_Lamp_02_Glass_02
+    4300014: House_Lamp_02_Emission
+    6400000: House_Lamp_02_Emission
+    6400002: House_Lamp_02_Glass
+    6400004: House_Lamp_02_Glass_02
+    6400006: House_Lamp_02_Metal_01
+    6400008: House_Lamp_02_Metal_02
+    6400010: House_Lamp_02_Metal_03
+    6400012: House_Lamp_02_White
+    6400014: House_Lamp_02_White_01
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_Lamp_02_Emission
+    second: {fileID: 2100000, guid: 0f53a5651799bcf469f8763c6411739d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_Lamp_02_Glass
+    second: {fileID: 2100000, guid: 432ef717a6e7f004d84d8ca72a317239, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_Lamp_02_Glass_02
+    second: {fileID: 2100000, guid: 5fb547a30e0868a4ca8d4ebdced5ad18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_Lamp_02_Metal_01
+    second: {fileID: 2100000, guid: deffe6adff8f4134b833e14c0d54c359, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_Lamp_02_Metal_02
+    second: {fileID: 2100000, guid: 056dd0ec3fb27774396c5e166fa1d174, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_Lamp_02_Metal_03
+    second: {fileID: 2100000, guid: b19474eb8d0564742b4affcd921acf03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_Lamp_02_White
+    second: {fileID: 2100000, guid: 19e5cde7a685ee746b3c101d64ca0d92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_Lamp_02_White_01
+    second: {fileID: 2100000, guid: bd119943e80b3ff42920aaad8bee6fc6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

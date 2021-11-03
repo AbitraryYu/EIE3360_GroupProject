@@ -1,0 +1,9 @@
+@1.PlayerSetting -Other Setting-ColorSpace-Liner
+
+
+@2.ProjectSetting-QualitySettings-Shadows
+	Shadowmask Mode - Shadowmask
+
+@3.Install Post-processing 2.0.xx.
+
+@4.Enjoy it.
